@@ -1,6 +1,5 @@
-🌟 Project Title[QuizApp]
+🌟 QuizApp
 📋 Description
-
 A simple and responsive Quiz App built using HTML, CSS, and JavaScript.
 This project demonstrates basic front-end skills like DOM manipulation, styling, and event handling.
 
@@ -28,7 +27,7 @@ JavaScript (ES6) — For interactivity
 📸 Screenshots
 | Home Section | About Section |
 |---------------|---------------|
-| ![Home Screenshot](images/home.png) | ![About Screenshot](images/about.png) |
+| ![Home Screenshot](SCREENSHOT-1.png) | ![About Screenshot](SCREENSHOT-2.png) |
 
 Home Page	Functionality
 	
@@ -36,7 +35,7 @@ Home Page	Functionality
 
 Clone this repository
 
-git clone https://github.com/ankithakanneboina/project-name.git
+git clone https://github.com/ankithakanneboina/QuizApp.git
 
 
 Open index.html in your browser
