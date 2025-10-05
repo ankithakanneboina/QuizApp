@@ -1,5 +1,17 @@
 🌟 QuizApp
 📋 Description
+
+Tech: HTML, CSS, JavaScript
+
+Developed an interactive Quiz Application with multiple-choice questions and live score tracking.
+
+Implemented DOM manipulation and event handling to dynamically render questions, manage user input, and display real-time feedback.
+
+Designed a simple, responsive layout using CSS for an engaging user experience.
+
+Built completely from scratch, focusing on logic, state handling, and JavaScript fundamentals.
+
+💡 Highlight: Wrote custom logic for question flow and scoring instead of relying on prebuilt templates, showing initiative and understanding of JS flow control.
 A simple and responsive Quiz App built using HTML, CSS, and JavaScript.
 This project demonstrates basic front-end skills like DOM manipulation, styling, and event handling.
 
