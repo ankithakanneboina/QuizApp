@@ -28,6 +28,8 @@ JavaScript (ES6) — For interactivity
 | Home Section | About Section |
 |---------------|---------------|
 | ![Home Screenshot](SCREENSHOT-1.png) | ![About Screenshot](SCREENSHOT-2.png) |
+| ![Home Screenshot](SCREENSHOT-3.png) | ![About Screenshot](SCREENSHOT-4.png) |
+| ![Home Screenshot](SCREENSHOT-5.png) | ![About Screenshot](SCREENSHOT-2.png) |
 
 Home Page	Functionality
 	
@@ -60,5 +62,5 @@ Writing cleaner and modular front-end code
 👨‍💻 Author
 Ankitha Kanneboina
 📧 ankithakanneboina350@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/ankithakanneboina) • [GitHub](https://github.com/ankithakannebina)
-🔗 • [LinkedIn] • [GitHub]
+🔗 • [GitHub](https://github.com/ankithakannebina)
+🔗  • [GitHub]
